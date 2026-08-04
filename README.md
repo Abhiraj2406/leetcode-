@@ -8,6 +8,7 @@ Leetcode daily problem Solving
 | ------- |
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +32,12 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->

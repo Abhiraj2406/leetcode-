@@ -8,6 +8,7 @@ Leetcode daily problem Solving
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhiraj2406/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Abhiraj2406/leetcode-/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Abhiraj2406/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/Abhiraj2406/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
@@ -46,6 +47,7 @@ Leetcode daily problem Solving
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abhiraj2406/leetcode-/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/Abhiraj2406/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhiraj2406/leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -75,4 +77,12 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Abhiraj2406/leetcode-/tree/master/1386-cinema-seat-allocation) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhiraj2406/leetcode-/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhiraj2406/leetcode-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

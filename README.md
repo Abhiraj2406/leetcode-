@@ -10,6 +10,7 @@ Leetcode daily problem Solving
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Abhiraj2406/leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Abhiraj2406/leetcode-/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/Abhiraj2406/leetcode-/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/Abhiraj2406/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
@@ -108,4 +109,8 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhiraj2406/leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Abhiraj2406/leetcode-/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

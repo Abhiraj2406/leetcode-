@@ -113,4 +113,12 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Abhiraj2406/leetcode-/tree/master/0724-find-pivot-index) |
+## String
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhiraj2406/leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhiraj2406/leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->

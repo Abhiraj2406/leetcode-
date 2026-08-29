@@ -14,6 +14,7 @@ Leetcode daily problem Solving
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/Abhiraj2406/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhiraj2406/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhiraj2406/leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -61,6 +62,7 @@ Leetcode daily problem Solving
 ## Sorting
 |  |
 | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -121,4 +123,8 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhiraj2406/leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->

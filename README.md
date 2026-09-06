@@ -31,6 +31,7 @@ Leetcode daily problem Solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Abhiraj2406/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhiraj2406/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
@@ -120,6 +121,7 @@ Leetcode daily problem Solving
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Abhiraj2406/leetcode-/tree/master/0115-distinct-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhiraj2406/leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |

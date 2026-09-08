@@ -28,6 +28,7 @@ Leetcode daily problem Solving
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhiraj2406/leetcode-/tree/master/1510-stone-game-iv) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhiraj2406/leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3870-count-commas-in-range](https://github.com/Abhiraj2406/leetcode-/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |

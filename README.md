@@ -24,6 +24,7 @@ Leetcode daily problem Solving
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Abhiraj2406/leetcode-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhiraj2406/leetcode-/tree/master/1510-stone-game-iv) |
@@ -136,4 +137,8 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhiraj2406/leetcode-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Abhiraj2406/leetcode-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

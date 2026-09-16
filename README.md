@@ -28,6 +28,7 @@ Leetcode daily problem Solving
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhiraj2406/leetcode-/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhiraj2406/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhiraj2406/leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3870-count-commas-in-range](https://github.com/Abhiraj2406/leetcode-/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@ Leetcode daily problem Solving
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhiraj2406/leetcode-/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhiraj2406/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Game Theory
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Leetcode daily problem Solving
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhiraj2406/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhiraj2406/leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -119,6 +122,7 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Abhiraj2406/leetcode-/tree/master/0724-find-pivot-index) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhiraj2406/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |

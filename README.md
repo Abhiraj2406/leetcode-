@@ -101,6 +101,7 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhiraj2406/leetcode-/tree/master/0496-next-greater-element-i) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Abhiraj2406/leetcode-/tree/master/0115-distinct-subsequences) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhiraj2406/leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -152,4 +154,8 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Abhiraj2406/leetcode-/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ Leetcode daily problem Solving
 | [0015-3sum](https://github.com/Abhiraj2406/leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhiraj2406/leetcode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhiraj2406/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Abhiraj2406/leetcode-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhiraj2406/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhiraj2406/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -80,6 +81,7 @@ Leetcode daily problem Solving
 | ------- |
 | [0015-3sum](https://github.com/Abhiraj2406/leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhiraj2406/leetcode-/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Abhiraj2406/leetcode-/tree/master/0075-sort-colors) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
@@ -89,6 +91,7 @@ Leetcode daily problem Solving
 | [0015-3sum](https://github.com/Abhiraj2406/leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhiraj2406/leetcode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhiraj2406/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Abhiraj2406/leetcode-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhiraj2406/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Abhiraj2406/leetcode-/tree/master/0283-move-zeroes) |
 ## Nim Game
@@ -178,4 +181,12 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/1748-sum-of-unique-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Abhiraj2406/leetcode-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Abhiraj2406/leetcode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

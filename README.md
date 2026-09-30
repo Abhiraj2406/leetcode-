@@ -17,6 +17,7 @@ Leetcode daily problem Solving
 | [1386-cinema-seat-allocation](https://github.com/Abhiraj2406/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhiraj2406/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1748-sum-of-unique-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/1748-sum-of-unique-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhiraj2406/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -68,6 +69,7 @@ Leetcode daily problem Solving
 | [0496-next-greater-element-i](https://github.com/Abhiraj2406/leetcode-/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/Abhiraj2406/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhiraj2406/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1748-sum-of-unique-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/1748-sum-of-unique-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhiraj2406/leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
@@ -166,4 +168,8 @@ Leetcode daily problem Solving
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhiraj2406/leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->

@@ -115,6 +115,7 @@ Leetcode daily problem Solving
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Abhiraj2406/leetcode-/tree/master/0496-next-greater-element-i) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhiraj2406/leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -151,6 +152,7 @@ Leetcode daily problem Solving
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Abhiraj2406/leetcode-/tree/master/0115-distinct-subsequences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhiraj2406/leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -175,6 +177,7 @@ Leetcode daily problem Solving
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhiraj2406/leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Counting

@@ -43,6 +43,7 @@ Leetcode daily problem Solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Abhiraj2406/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhiraj2406/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -153,6 +154,7 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Abhiraj2406/leetcode-/tree/master/0115-distinct-subsequences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhiraj2406/leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -178,6 +180,7 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhiraj2406/leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Counting
@@ -192,4 +195,8 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhiraj2406/leetcode-/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

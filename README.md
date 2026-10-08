@@ -118,6 +118,7 @@ Leetcode daily problem Solving
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Abhiraj2406/leetcode-/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhiraj2406/leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
@@ -157,6 +158,7 @@ Leetcode daily problem Solving
 | [0022-generate-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Abhiraj2406/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0301-remove-invalid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhiraj2406/leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhiraj2406/leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -182,6 +184,7 @@ Leetcode daily problem Solving
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhiraj2406/leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Counting

@@ -21,6 +21,7 @@ Leetcode daily problem Solving
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhiraj2406/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/1748-sum-of-unique-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhiraj2406/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhiraj2406/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -83,6 +84,7 @@ Leetcode daily problem Solving
 | [0015-3sum](https://github.com/Abhiraj2406/leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhiraj2406/leetcode-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Abhiraj2406/leetcode-/tree/master/0075-sort-colors) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhiraj2406/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
@@ -109,6 +111,7 @@ Leetcode daily problem Solving
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Abhiraj2406/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiraj2406/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhiraj2406/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Leetcode daily problem Solving
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhiraj2406/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhiraj2406/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhiraj2406/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhiraj2406/leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -212,4 +216,8 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Abhiraj2406/leetcode-/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhiraj2406/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->

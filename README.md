@@ -22,6 +22,7 @@ Leetcode daily problem Solving
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhiraj2406/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/1748-sum-of-unique-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhiraj2406/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhiraj2406/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -77,6 +78,7 @@ Leetcode daily problem Solving
 | [1386-cinema-seat-allocation](https://github.com/Abhiraj2406/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhiraj2406/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/1748-sum-of-unique-elements) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhiraj2406/leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -225,4 +227,12 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhiraj2406/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->

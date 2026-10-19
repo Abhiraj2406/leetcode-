@@ -19,6 +19,7 @@ Leetcode daily problem Solving
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/Abhiraj2406/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhiraj2406/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhiraj2406/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -40,6 +41,7 @@ Leetcode daily problem Solving
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhiraj2406/leetcode-/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhiraj2406/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhiraj2406/leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhiraj2406/leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -55,6 +57,7 @@ Leetcode daily problem Solving
 | [0877-stone-game](https://github.com/Abhiraj2406/leetcode-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhiraj2406/leetcode-/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhiraj2406/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Game Theory
 |  |
@@ -154,6 +157,7 @@ Leetcode daily problem Solving
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhiraj2406/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhiraj2406/leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
@@ -187,6 +191,7 @@ Leetcode daily problem Solving
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -238,4 +243,28 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->

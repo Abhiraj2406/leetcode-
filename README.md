@@ -33,6 +33,7 @@ Leetcode daily problem Solving
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhiraj2406/leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhiraj2406/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
@@ -47,6 +48,7 @@ Leetcode daily problem Solving
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhiraj2406/leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhiraj2406/leetcode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Abhiraj2406/leetcode-/tree/master/3870-count-commas-in-range) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhiraj2406/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Leetcode daily problem Solving
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhiraj2406/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,4 +270,8 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Abhiraj2406/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->

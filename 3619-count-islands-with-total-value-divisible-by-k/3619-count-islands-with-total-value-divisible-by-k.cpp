@@ -13,7 +13,7 @@ public:
             sum += self(self, i, j - 1);
             return sum;
         };
-        for (int i = 0; i < m; i++) {
+        for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
                 if (grid[i][j] > 0) {
                     long long s = dfs(dfs, i, j);

@@ -33,6 +33,7 @@ Leetcode daily problem Solving
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhiraj2406/leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiraj2406/leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Abhiraj2406/leetcode-/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhiraj2406/leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -65,6 +66,7 @@ Leetcode daily problem Solving
 | [1510-stone-game-iv](https://github.com/Abhiraj2406/leetcode-/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhiraj2406/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhiraj2406/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3665-twisted-mirror-path-count](https://github.com/Abhiraj2406/leetcode-/tree/master/3665-twisted-mirror-path-count) |
 ## Game Theory
 |  |
 | ------- |
@@ -297,6 +299,7 @@ Leetcode daily problem Solving
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiraj2406/leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Abhiraj2406/leetcode-/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |

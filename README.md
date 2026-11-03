@@ -34,6 +34,7 @@ Leetcode daily problem Solving
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhiraj2406/leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiraj2406/leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Abhiraj2406/leetcode-/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhiraj2406/leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhiraj2406/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhiraj2406/leetcode-/tree/master/3904-smallest-stable-index-ii) |
@@ -49,6 +50,7 @@ Leetcode daily problem Solving
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhiraj2406/leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhiraj2406/leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhiraj2406/leetcode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhiraj2406/leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Abhiraj2406/leetcode-/tree/master/3870-count-commas-in-range) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhiraj2406/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
